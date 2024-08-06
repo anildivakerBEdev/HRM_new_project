@@ -76,3 +76,4 @@ end
 
   gem 'rspec-rails'
   gem 'factory_bot_rails', '~> 6.2.0'
+  gem 'faker'
